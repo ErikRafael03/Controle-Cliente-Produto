@@ -1,0 +1,8 @@
+C:\Users\Ana Paula\Desktop\Erik\C# Completo\Enumerações\Enum05\Enum05\bin\Debug\Enum05.exe.config
+C:\Users\Ana Paula\Desktop\Erik\C# Completo\Enumerações\Enum05\Enum05\bin\Debug\Enum05.exe
+C:\Users\Ana Paula\Desktop\Erik\C# Completo\Enumerações\Enum05\Enum05\bin\Debug\Enum05.pdb
+C:\Users\Ana Paula\Desktop\Erik\C# Completo\Enumerações\Enum05\Enum05\obj\Debug\Enum05.csproj.AssemblyReference.cache
+C:\Users\Ana Paula\Desktop\Erik\C# Completo\Enumerações\Enum05\Enum05\obj\Debug\Enum05.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ana Paula\Desktop\Erik\C# Completo\Enumerações\Enum05\Enum05\obj\Debug\Enum05.csproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\Desktop\Erik\C# Completo\Enumerações\Enum05\Enum05\obj\Debug\Enum05.exe
+C:\Users\Ana Paula\Desktop\Erik\C# Completo\Enumerações\Enum05\Enum05\obj\Debug\Enum05.pdb
